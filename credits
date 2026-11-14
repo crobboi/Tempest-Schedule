@@ -1,3 +1,5 @@
 # One player per line: name, then the number of credits.
 # Names are not case sensitive.
-example 7
+cb 3
+tot 3
+msu 3
